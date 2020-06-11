@@ -1,0 +1,9 @@
+Please note that these notes are currently INCOMPLETE.
+
+I am compiling my own notes as I am preparing for the SAA-C02 exam over the following FREE resources:
+
+  1. FreeCodeCamp's Preparation: https://www.youtube.com/watch?v=Ia-UEYYR44s
+  2. DigitalCloud CheatSheets: https://digitalcloud.training/certification-training/aws-solutions-architect-associate/
+      
+My notes are located here:
+https://docs.google.com/document/d/1V9jgPTsuRGx6mpwUy7HiobCSiEmDPyQt4acT_bDnE3M/edit?usp=sharing
