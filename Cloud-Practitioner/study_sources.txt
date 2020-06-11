@@ -1,0 +1,10 @@
+I compiled my own notes when I was studying/practicing over the following FREE resources:
+
+  1. FreeCodeCamp's Preparation: https://www.youtube.com/watch?v=3hLmDS179YE
+  2. DigitalCloud CheatSheets: https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/
+    
+My notes are located here:
+  https://docs.google.com/document/d/1rkXinul_qJBok8Fh2XcS-dZqraaZWEOFQfO5RmKZ1Rw/edit?usp=sharing
+ 
+I STRONGLY recommend purchasing or finding practice tests and keep completing them until you're scoring 90% on each of them.
+I used Neil Davis's Practice Tests and it provided extremely detailed explanations for the right and wrong answers. 
